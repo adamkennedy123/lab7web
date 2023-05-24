@@ -1,2 +1,2 @@
--
-|nama|
+-------------------
+|nama|adam kennedy|
