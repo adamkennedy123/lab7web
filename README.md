@@ -31,13 +31,17 @@ SETELAH ITU BUKA VSCODE DAN BUKA FILE .env
 
 GANTI #CI_ENVIRONMENT = PRODUCTION MENJADI SEPERTI DI BAWAH INI
 
-
+![Screenshot (18)](https://github.com/adamkennedy123/lab7web/assets/92745982/20f830bb-8742-4b63-8a40-531abf2deff7)
 
 SETELAH UDAH DIUBAH MAKA PENCET FILE app/config/routes.php
 
 GANTI $routes-setautoroute (false) menjadi (true) SEPERTI DI BAWAH INI
 
 ![Screenshot (5)](https://github.com/adamkennedy123/lab7web/assets/92745982/31a1aeaa-7cb8-4d6b-8609-c80d7c632e53)
+
+DAN KETIK SEPERTI DIBAWAH INI
+
+![Screenshot (19)](https://github.com/adamkennedy123/lab7web/assets/92745982/51008f1e-5847-49ec-accc-a9104944e5a0)
 
 BUKA KEMBALI XAMPP DAN KLIK SHELL 
 
@@ -66,3 +70,10 @@ LALU COPY HTTPS://LOCALHOST:8080 DAN PASTE KE BROWSER
 LALU MENGHASILKAN SEPERTI DIBAWAH INI
 
 ![Screenshot (3)](https://github.com/adamkennedy123/lab7web/assets/92745982/99021ac9-6d98-4070-9ebf-6c38045bcd73)
+
+
+#UNTUK KODINGAN BISA LIAT DI FILE DIBAWAH INI
+app/Views/template
+app/Views/about.php
+#UNTUK TAMPILAN BISA LIAT DI FILE DIBAWAH INI
+public/style.css
